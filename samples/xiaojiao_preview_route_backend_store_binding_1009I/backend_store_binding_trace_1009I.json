@@ -1,0 +1,10 @@
+{
+  "storeMode": "backend_sandbox",
+  "writes": [
+    "work_state",
+    "event_log",
+    "work_object_patch",
+    "teacher_review_gate"
+  ],
+  "formal_apply_performed": false
+}

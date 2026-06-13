@@ -1,0 +1,18 @@
+{
+  "package": "xiaojiao_preview_route_backend_store_binding_1009I",
+  "zip_entry_count": 8,
+  "zip_sha256": "80836A8A9AF8F3EDB312F9EE070DBA6F4D8792DEB32D739DCA3817E8CEA07439",
+  "entries": [
+    "docs/audit/xiaojiao_preview_route_backend_store_binding_1009I_report.md",
+    "docs/audit/xiaojiao_preview_route_backend_store_binding_1009I_result.json",
+    "docs/foundation/xiaojiao_preview_route_backend_store_binding_1009I.json",
+    "docs/foundation/xiaojiao_preview_route_backend_store_binding_1009I.md",
+    "frontend/xiaojiao-preview.html",
+    "samples/xiaojiao_preview_route_backend_store_binding_1009I/backend_store_binding_trace_1009I.json",
+    "samples/xiaojiao_preview_route_backend_store_binding_1009I/local_fallback_trace_1009I.json",
+    "scripts/validate_xiaojiao_preview_route_backend_store_binding_1009I.py"
+  ],
+  "manifest_minus_zip": [],
+  "zip_minus_manifest": [],
+  "created_at": "2026-06-13T19:03:28.035554+00:00"
+}

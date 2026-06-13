@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "work_states",
+    "work_objects",
+    "event_logs",
+    "work_object_patches",
+    "teacher_review_gates",
+    "provider_cost_events"
+  ],
+  "operations": [
+    "loadWorkState",
+    "saveWorkState",
+    "loadWorkObjects",
+    "saveWorkObject",
+    "appendEvent",
+    "createWorkObjectPatch",
+    "createTeacherReviewGate",
+    "updateTeacherReviewGate",
+    "exportSandboxSnapshot",
+    "resetSandboxStore",
+    "estimateProviderCost"
+  ],
+  "production_store_enabled": false
+}

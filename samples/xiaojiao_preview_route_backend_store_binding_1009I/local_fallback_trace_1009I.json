@@ -1,0 +1,5 @@
+{
+  "storeMode": "local_fallback",
+  "fallback_reason": "backend_sandbox_unavailable",
+  "local_fallback_available": true
+}

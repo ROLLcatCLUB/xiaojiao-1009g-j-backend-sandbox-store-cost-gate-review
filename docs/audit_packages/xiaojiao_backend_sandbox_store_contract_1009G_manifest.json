@@ -1,0 +1,17 @@
+{
+  "package": "xiaojiao_backend_sandbox_store_contract_1009G",
+  "zip_entry_count": 7,
+  "zip_sha256": "372A985B378CB66467150AC1E5C14250031128C8D9070C4132DE21C6AEA424B8",
+  "entries": [
+    "docs/audit/xiaojiao_backend_sandbox_store_contract_1009G_report.md",
+    "docs/audit/xiaojiao_backend_sandbox_store_contract_1009G_result.json",
+    "docs/foundation/xiaojiao_backend_sandbox_store_contract_1009G.json",
+    "docs/foundation/xiaojiao_backend_sandbox_store_contract_1009G.md",
+    "samples/xiaojiao_backend_sandbox_store_contract_1009G/backend_sandbox_store_api_sample_1009G.json",
+    "samples/xiaojiao_backend_sandbox_store_contract_1009G/backend_sandbox_store_contract_1009G.json",
+    "scripts/validate_xiaojiao_backend_sandbox_store_contract_1009G.py"
+  ],
+  "manifest_minus_zip": [],
+  "zip_minus_manifest": [],
+  "created_at": "2026-06-13T19:03:27.812340+00:00"
+}

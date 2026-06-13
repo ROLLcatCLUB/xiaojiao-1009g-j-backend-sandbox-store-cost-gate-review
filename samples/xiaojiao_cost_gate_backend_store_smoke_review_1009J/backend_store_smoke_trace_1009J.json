@@ -1,0 +1,8 @@
+[
+  "contract_exists",
+  "adapter_exists",
+  "preview_backend_or_fallback",
+  "event_log_write",
+  "patch_write",
+  "review_gate_write"
+]

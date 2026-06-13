@@ -1,0 +1,6 @@
+[
+  "是否允许进入真实 store sandbox backend?",
+  "是否继续保留 localStorage fallback?",
+  "是否先补 provider pricing config?",
+  "是否禁止 default route switch 直到真实 store 审核?"
+]

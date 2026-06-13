@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/api/xiaojiao-preview/store/load",
+    "/api/xiaojiao-preview/store/save",
+    "/api/xiaojiao-preview/event/append",
+    "/api/xiaojiao-preview/snapshot/export",
+    "/api/xiaojiao-preview/store/reset"
+  ],
+  "adapter_required": true
+}

@@ -1,0 +1,22 @@
+{
+  "provider_pricing_config": {
+    "configured": false,
+    "estimated_cost_cny": null
+  },
+  "per_action_token_budget": {
+    "generate_handout_candidate": 2200,
+    "shorten_second_activity_candidate": 1800
+  },
+  "per_action_latency_budget_ms": {
+    "generate_handout_candidate": 70000,
+    "shorten_second_activity_candidate": 70000
+  },
+  "per_teacher_daily_budget": null,
+  "batch_generation_allowed": false,
+  "background_generation_allowed": false,
+  "default_route_auto_provider_call_allowed": false,
+  "no_bulk_generation_until_cost_gate_pass": true,
+  "cost_gate_incomplete": true,
+  "reason": "provider pricing table not approved",
+  "next_cost_action": "approve provider pricing config before real store or batch generation"
+}
